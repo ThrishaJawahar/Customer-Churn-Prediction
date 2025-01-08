@@ -1,1 +1,3 @@
 # Customer-Churn-Prediction
+
+This project focuses on predicting customer churn for a telecommunications company using machine learning techniques. The dataset includes customer demographics, account details, and services used, with the goal of identifying customers likely to leave. The process involves data preprocessing, feature encoding, and model building using algorithms like Logistic Regression and Decision Trees. The model is evaluated using accuracy, precision, and recall, providing actionable insights for customer retention strategies. This project showcases how machine learning can help businesses proactively address churn and improve customer retention.
